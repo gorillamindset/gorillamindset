@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello, I'm Abhishek Sunka! 👋
 
 I'm a  Master's student at IIT Hyderabad who enjoys coding as a hobby.
 
