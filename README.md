@@ -1,6 +1,7 @@
 # Hello, I'm Abhishek! 👋
 
-I'm a  Master's student at IIT Hyderabad who enjoys coding as a hobby.
+I code for the sheer joy of creating and solving challenges, a continuous journey of exploration and learning.
+Currently on a binge, completing dynamic programming challenges to sharpen my problem-solving skills.
 
 ## About Me
 - 🎓 Currently pursuing my Master's in Structural Engineering at IIT Hyderabad.
