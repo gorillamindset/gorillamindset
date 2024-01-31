@@ -8,6 +8,6 @@ Currently on a binge, completing dynamic programming challenges to sharpen my pr
 - 💻 Coding enthusiast with proficiency in Python, C++, and JavaScript.
 
 ## Hobbies
-- **Web Development:** Creating user-friendly web apps with React and Flask.
+- **Web Development:** Creating user-friendly web apps with React.
 - **Tech Trends:** Staying updated on the latest in AI, web development, and tech.
 
