@@ -5,7 +5,7 @@ Currently on a binge, completing dynamic programming challenges to sharpen my pr
 
 ## About Me
 - 🎓 Currently pursuing my Master's  at IIT Hyderabad.
-- 💻 Coding enthusiast with proficiency in Python, C++, and JavaScript.
+- 💻 Coding enthusiast with proficiency in JavaScript, C++, Python.
 
 ## Hobbies
 - **Web Development:** Creating user-friendly web apps with React.
