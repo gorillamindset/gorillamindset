@@ -10,4 +10,4 @@ Currently on a binge, completing dynamic programming challenges to sharpen my pr
 ## Hobbies
 - **Web Development:** Creating user-friendly web apps with React.
 - **Tech Trends:** Staying updated on the latest in AI, web development, and tech.
-
+- **Leetcode:** Conquering challenges, line by line.
