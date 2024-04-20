@@ -5,9 +5,9 @@ Currently on a binge, completing dynamic programming challenges to sharpen my pr
 
 ## About Me
 - 🎓 Currently pursuing my Master's  at IIT Hyderabad.
-- 💻 Coding enthusiast with proficiency in JavaScript, C++, Python.
+- 💻 Coding enthusiast with proficiency in JavaScript,Java, C++.
 
 ## Hobbies
-- **Web Development:** Creating user-friendly web apps with React.
-- **Tech Trends:** Staying updated on the latest in AI, web development, and tech.
-- **Leetcode:** Conquering challenges, line by line.
+- **Web Development:** Creating user-friendly web apps with React;
+- **Learning:** Currently learning Backend in Java with Spring Boot;
+- **Leetcode:** Conquering challenges, line by line;
